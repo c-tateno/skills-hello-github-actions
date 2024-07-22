@@ -1,6 +1,7 @@
 <header>
 
 # Hello GitHub Actions
+# 変更を加えたぜ :smile:
 
 _Create and run a GitHub Actions workflow._
 
